@@ -1,6 +1,6 @@
-﻿# 🌦️ Météo App
+# 🌦️ Météo App
 
- # LE LIEN DU SITE https://abduuulleee.github.io/meteo/
+ # LE LIEN DU SITE https://abduoqb.github.io/meteo/
 
 Application web interactive pour consulter la météo et les prévisions sur 5 jours, avec gestion des favoris, historique de recherche, affichage détaillé et mode sombre.
 
